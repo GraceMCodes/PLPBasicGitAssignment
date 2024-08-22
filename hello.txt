@@ -1,0 +1,2 @@
+This is my text file. 
+I created a file from my command line, I should be pushing this to my Github.
